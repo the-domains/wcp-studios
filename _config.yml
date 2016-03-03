@@ -1,0 +1,28 @@
+name: WCP Studios
+favicon: null
+layout_spectrum: 0.07952894968912005
+typography_spectrum: 0.5048351839650422
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6305171572603285
+  lightness: 0.42116126301698387
+  saturation: 0.9929517575073987
+  rhythmicContrast: 0.3008042764849961
+purpose: []
